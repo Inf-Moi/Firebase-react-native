@@ -1,0 +1,9 @@
+// ✅ Configuración para ANDROID (la que usaste en tu app móvil)
+const firebaseConfigAndroid = {
+  apiKey: "AIzaSyCdbfsW4up-HCjQ2jJCNrsJty5dMiUMVNg",
+  authDomain: "login-auntentificacion.firebaseapp.com",
+  projectId: "login-auntentificacion",
+  storageBucket: "login-auntentificacion.appspot.com",
+  messagingSenderId: "939620148787",
+  appId: "1:939620148787:android:fb90a685d68d2c72772546"
+};

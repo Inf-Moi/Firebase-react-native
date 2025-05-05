@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "939620148787",
+    "project_id": "login-auntentificacion",
+    "storage_bucket": "login-auntentificacion.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939620148787:android:fb90a685d68d2c72772546",
+        "android_client_info": {
+          "package_name": "com.moisestorres.loginfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdbfsW4up-HCjQ2jJCNrsJty5dMiUMVNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
